@@ -1,9 +1,9 @@
 # Atstake - Transform your arguments into bets
 
-Securely bet against other Twitter users using the Ethereum blockchain.
+Securely bet against anyone using the Ethereum blockchain.
 
 ## Blockchain betting made easy
-* **Bet real money against anyone, about anything.** 
+* **Bet any amount of real money against anyone, about anything.** 
 We provide an easy to use bet enforcement and tracking platform which leaves you in full control of the terms and amounts of your bets.
 * **Bets are secured by an Ethereum contract.** 
 All bet rules are enforced on the Ethereum blockchain with an open source contract whose code available for public review.
